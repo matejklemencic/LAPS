@@ -1,4 +1,4 @@
-Use PowerShell to create an interactive session or RDP connection to a remote computer with LAPS credentials. 
+Use PowerShell to create an interactive session or RDP connection to a remote computer with LAPSv1 credentials. 
 
 # How to Install?
 
